@@ -1,5 +1,5 @@
 # Python & Pandas interpolation
-<p>
+<p align="center">
     <img src="https://img.shields.io/tokei/lines/github/braydofficial/pandas-interpolation">
     <img src="https://img.shields.io/github/license/braydofficial/pandas-interpolation">
 </p>
