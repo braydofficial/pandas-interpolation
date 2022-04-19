@@ -12,7 +12,8 @@
 
 ## Description
 This is a simple repository used for an interpolation test. I tried to interpolate missing values on a CSV file that uses semicolons as seperators.
-The interpolation is achieved using Python and the Pandas libary.
+The interpolation is achieved using Python and the Pandas libary. The code is commented out in the main.py so you can understand what it does if
+you're currently learning how to do interpolations with Python and the Pandas libary.
 
 ## Installation
 **Clone this repository**
